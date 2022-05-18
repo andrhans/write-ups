@@ -1,5 +1,5 @@
 # Write-ups
 
-* Cybergrabs CTF (2022)
+* Cybergrabs 0x03 CTF (202?)
 * TryHackMe
 * 
